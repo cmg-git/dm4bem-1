@@ -11,3 +11,5 @@ Tutorials in Jupyter:
 5. Swing models: heating & cooling and free-running
 6. Control input: heating & cooling and free-running
 7. Control: HVAC & free cooling
+
+[Teaching support](https://github.com/cghiaus/dm4bem) : link valid till 24/03/2022
